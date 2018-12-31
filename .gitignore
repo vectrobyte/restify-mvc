@@ -1,5 +1,12 @@
 /.idea
-/node_modules
 /.vscode
+/node_modules
 yarn.lock
 app.js
+package
+.prettierrc.js
+.postcssrc.js
+package-lock.json
+.editorconfig
+npm-debug.log
+yarn-error.log
